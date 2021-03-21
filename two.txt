@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 two filr
+=======
+two.txt
+my logi ccoret
+>>>>>>> issue1
